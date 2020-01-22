@@ -3,7 +3,7 @@ package com.david.design.patterns.structural.decorator;
 /**
  * @author : wangwei
  * @date : Created in 2020/1/21 22:35
- * @description: ${description}
+ * @description: 实际装饰者
  * @modified By:
  * @version: ${version}
  */
